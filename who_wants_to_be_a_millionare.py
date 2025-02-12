@@ -1,0 +1,1 @@
+input("Do u want to become a millionare? then enter yes now!")
